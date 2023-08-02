@@ -27,7 +27,7 @@
     "@cypress/get-windows-proxy": "1.6.2",
     "@cypress/mocha-teamcity-reporter": "1.0.0",
     "@cypress/request": "2.88.10",
-    "@cypress/request-promise": "4.2.6",
+    "@cypress/request-promise": "4.2.7",
     "@cypress/vite-dev-server": "0.0.0-development",
     "@cypress/webpack-batteries-included-preprocessor": "0.0.0-development",
     "@cypress/webpack-dev-server": "0.0.0-development",
