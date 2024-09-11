@@ -3,7 +3,7 @@
   "version": "0.0.0-test",
   "private": true,
   "dependencies": {
-    "typescript": "5.0.3",
-    "vite": "4.2.1"
+    "typescript": "5.5.4",
+    "vite": "4.5.3"
   }
 }
